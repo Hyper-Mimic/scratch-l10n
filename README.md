@@ -1,4 +1,4 @@
-# @Hyper-Mimic/scratch-l10n
+# @turbowarp/scratch-l10n
 
 This is a modified version of scratch-l10n with translations that aren't used by HyperMimic removed.
 
